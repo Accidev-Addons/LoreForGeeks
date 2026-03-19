@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: LoreForGeeks
+## Notes: Автоответ на ежедневный квест "Шкатулка мудрости" (NPC 79003)
+## Notes-ruRU: Автоответ на ежедневный квест "Шкатулка мудрости" (NPC 79003)
+## Author: Accidev
+## Version: 1.0
+
+QuestData.lua
+LoreForGeeks.lua
